@@ -1,0 +1,12 @@
+.MyTable{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    width: 70%;
+    border: 1px solid black;
+}
+table, th, td {
+    border:1px solid black;
+  }
+  body{
+    background-color: rgb(210, 232, 238);
+  }
